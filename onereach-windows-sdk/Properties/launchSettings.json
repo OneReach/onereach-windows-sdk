@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "onereach-windows-sdk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "onereach-windows-sdk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
